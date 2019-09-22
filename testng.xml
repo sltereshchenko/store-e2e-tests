@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="PurchaseSuite">
+
+    <test name="Test purchase process">
+        <classes>
+            <class name="tests.purchase.PurchaseProcessTest"/>
+        </classes>
+    </test>
+</suite>
