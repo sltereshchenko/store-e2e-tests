@@ -14,9 +14,9 @@ To change WebDriver type change BROWSER value to 'firefox' or 'chrome' in store-
 
 Automated test cases (2 TC):
 [PurchaseProcessTest.class]
-     * Test Case 1: (Parameterized, depends on input parameters: tab where to buy, products to buy)
-     * case#1: buy 1 'Magic Mouse' on Accessories page
-     * case#2: buy 2 'Magic Mouse' and 1 'Apple 13-inch MacBook Pro' on MacBooks page
+Test Case 1: (Parameterized, depends on input parameters: tab where to buy, products to buy)
+  case#1: buy 1 'Magic Mouse' on Accessories page
+  case#2: buy 2 'Magic Mouse' and 1 'Apple 13-inch MacBook Pro' on MacBooks page
      * - Open browser and Navigate to home page
      * - Go to some product category tab
      * - Parse and store product's data from product category tab
